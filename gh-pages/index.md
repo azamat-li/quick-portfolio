@@ -41,5 +41,3 @@ Has no backend at all by now.
 - Vue Mastery, Vue School
 - Livewire screencasts, Laracasts 
 
----
-
