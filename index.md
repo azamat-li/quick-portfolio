@@ -4,10 +4,14 @@ Based on workshop by Damian Dulisz.
 Has no backend at all by now.
 
 #### Languages
+###### Fluent
 - English
 - Russian
 - Tatar 
 - Bashkir 
+###### Elementary/Intermedite
+- Turkish
+- Arabic
 
 #### Frontend
 - Tailwindcss, Vuetify
