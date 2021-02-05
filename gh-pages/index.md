@@ -5,7 +5,6 @@ Has no backend at all by now.
 
 #### [Laravel app](https://stolyaroff.smartheadteacher.com/main)
 ###### Features
-
 - CRUD for clients endpoint
 - Visitors counting with Redis
 - Mail feedback with Mailtrap.io

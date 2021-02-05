@@ -1,11 +1,14 @@
 ## Portfolio
 #### [Nuxtjs  stat](https://azamat-li.github.io/Yat/)
 Based on workshop by Damian Dulisz.
-Has no backend at all by now.
+###### Frontend Features
+- i18n
+- Registration
+- Trello implemetation
+- including different worksheets navigation
 
 #### [Laravel app](https://stolyaroff.smartheadteacher.com/main)
 ###### Features
-
 - CRUD for clients endpoint
 - Visitors counting with Redis
 - Mail feedback with Mailtrap.io
