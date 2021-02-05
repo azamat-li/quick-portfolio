@@ -18,6 +18,7 @@ Based on workshop by Damian Dulisz.
 - Tailwindcss
 - Laravel
 
+## Personal
 #### Languages
 ###### Fluent
 - English
