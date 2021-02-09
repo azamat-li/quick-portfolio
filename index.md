@@ -7,12 +7,16 @@ Based on workshop by Damian Dulisz.
 - Trello implemetation
 - including different worksheets navigation
 
+[Github Repo](https://github.com/azamat-li/Yat)
+
 #### [Laravel app](https://stolyaroff.smartheadteacher.com/main)
 ###### Features
 - CRUD for clients endpoint
 - Visitors counting with Redis
 - Mail feedback with Mailtrap.io
 - MySql persisting
+
+[Github Repo](https://github.com/azamat-li/portfolio-template)
 
 ###### Build With
 - Tailwindcss
