@@ -7,7 +7,7 @@ Based on workshop by Damian Dulisz.
 - Trello implemetation
 - including different worksheets navigation
 
-[Github Repo](https://github.com/azamat-li/Yat)
+[Nuxtjs  stat Github Repo](https://github.com/azamat-li/Yat)
 
 #### [Laravel app](https://stolyaroff.smartheadteacher.com/main)
 ###### Features
@@ -16,7 +16,7 @@ Based on workshop by Damian Dulisz.
 - Mail feedback with Mailtrap.io
 - MySql persisting
 
-[Github Repo](https://github.com/azamat-li/portfolio-template)
+[Laravel app Github Repo](https://github.com/azamat-li/portfolio-template)
 
 ###### Build With
 - Tailwindcss
