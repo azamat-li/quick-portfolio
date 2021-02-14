@@ -1,5 +1,5 @@
 ## Portfolio
-#### [Nuxtjs  stat](https://azamat-li.github.io/Yat/)
+#### [Nuxtjs  stat](https://gabdulgazim.github.io/Yat/)
 Based on workshop by Damian Dulisz.
 ###### Frontend Features
 - i18n
@@ -7,7 +7,7 @@ Based on workshop by Damian Dulisz.
 - Trello implemetation
 - including different worksheets navigation
 
-[Nuxtjs  stat Github Repo](https://github.com/azamat-li/Yat)
+[Nuxtjs  stat Github Repo](https://github.com/gabdulgazim/Yat)
 
 #### [Laravel app](https://stolyaroff.smartheadteacher.com)
 ###### Features
