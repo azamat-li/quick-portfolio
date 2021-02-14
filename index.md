@@ -9,7 +9,7 @@ Based on workshop by Damian Dulisz.
 
 [Nuxtjs  stat Github Repo](https://github.com/azamat-li/Yat)
 
-#### [Laravel app](https://stolyaroff.smartheadteacher.com/main)
+#### [Laravel app](https://stolyaroff.smartheadteacher.com)
 ###### Features
 - CRUD for clients endpoint
 - Visitors counting with Redis
@@ -18,9 +18,15 @@ Based on workshop by Damian Dulisz.
 
 [Laravel app Github Repo](https://github.com/azamat-li/portfolio-template)
 
+#### [Cyrillic.vim](https://gabdulgazim.github.io/cyrillic.vim/)
+###### Features
+- Easier cyrillic text entry
+- Smoother work with cyrillic  text in normal mode
+
+[Cyrillic.vim Github repo](https://github.com/gabdulgazim/cyrillic.vim)
 ###### Build With
-- Tailwindcss
-- Laravel
+- Vim language
+- Uses Vundle
 
 ## Personal
 #### Languages
