@@ -5,14 +5,14 @@ Based on workshop by Damian Dulisz.
 - i18n
 - Registration
 - Trello implemetation
-- including different worksheets navigation
+- different Trello worksheets navigation
 
 [Nuxtjs  stat Github Repo](https://github.com/gabdulgazim/Yat)
 
-#### [Laravel app](https://stolyaroff.smartheadteacher.com)
+#### [Laravel app](https://stolyaroff.smartheadteacher.com/cube-calc)
 ###### Features
 - CRUD for clients endpoint
-- Visitors counting with Redis
+- Livewire endpoint
 - Mail feedback with Mailtrap.io
 - MySql persisting
 
